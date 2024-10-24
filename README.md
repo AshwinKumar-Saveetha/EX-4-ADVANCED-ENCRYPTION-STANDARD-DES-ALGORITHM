@@ -82,3 +82,4 @@ int main() {
 ![image](https://github.com/user-attachments/assets/073dd514-79e0-46ac-a7b6-245467ea33ab)
 
 ## RESULT: 
+Hence, for the given input text and key the DES algorithm is successfully simulated.
